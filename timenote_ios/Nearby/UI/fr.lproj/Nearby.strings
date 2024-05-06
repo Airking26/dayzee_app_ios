@@ -1,0 +1,57 @@
+
+/* Class = "UIButton"; normalTitle = "Réinitialiser"; ObjectID = "40u-8o-PgG"; */
+"40u-8o-PgG.normalTitle" = "Réinitialiser";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "Ck3-sJ-acA"; */
+"Ck3-sJ-acA.text" = "Date";
+
+/* Class = "UIButton"; normalTitle = "Filtres"; ObjectID = "NXL-3Y-GIx"; */
+"NXL-3Y-GIx.normalTitle" = "FILTRES";
+
+/* Class = "UITextField"; placeholder = "Pas de catégorie"; ObjectID = "U60-UE-69p"; */
+"U60-UE-69p.placeholder" = "Pas de catégorie";
+
+/* Class = "UIButton"; normalTitle = "Sauvegarder"; ObjectID = "Za2-7c-o74"; */
+"Za2-7c-o74.normalTitle" = "Sauvegarder";
+
+/* Class = "UILabel"; text = "Filtres"; ObjectID = "aCM-ko-8qD"; */
+"aCM-ko-8qD.text" = "FILTRES";
+
+/* Class = "UILabel"; text = "Rien autour, essayez un autre ensemble de filtres"; ObjectID = "5YR-yc-Z6K"; */
+"5YR-yc-Z6K.text" = "Rien autour, essayez un autre ensemble de filtres";
+
+/* Class = "UITextField"; placeholder = "Aujourd'hui"; ObjectID = "aYK-66-sT9"; */
+"aYK-66-sT9.placeholder" = "Aujourd'hui";
+
+/* Class = "UILabel"; text = "Catégorie"; ObjectID = "dDy-gx-YOY"; */
+"dDy-gx-YOY.text" = "Catégorie";
+
+/* Class = "UILabel"; text = "250 km"; ObjectID = "g7g-Lm-R0A"; */
+"g7g-Lm-R0A.text" = "250 km";
+
+/* Class = "UITextField"; placeholder = "Sélectionner l'adresse"; ObjectID = "i7p-Iw-MPk"; */
+"i7p-Iw-MPk.placeholder" = "Sélectionner l'adresse";
+
+/* Class = "UILabel"; text = "Quand ?"; ObjectID = "iFI-CU-pUc"; */
+"iFI-CU-pUc.text" = "Quand ?";
+
+/* Class = "UILabel"; text = "Créer par"; ObjectID = "iRT-44-Zsh"; */
+"iRT-44-Zsh.text" = "Créé par";
+
+/* Class = "UILabel"; text = "Payant"; ObjectID = "kXS-1j-WJA"; */
+"kXS-1j-WJA.text" = "Payant";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "ryu-yn-BWo"; */
+"ryu-yn-BWo.text" = "Distance";
+
+/* Class = "UILabel"; text = "Où ?"; ObjectID = "sal-8M-2Lg"; */
+"sal-8M-2Lg.text" = "Où ?";
+
+/* Class = "UITextField"; text = "Tout le monde"; ObjectID = "wG2-rl-bON"; */
+"wG2-rl-bON.text" = "Tout le monde";
+
+/* Class = "UITextField"; placeholder = "Pas de spécification"; ObjectID = "xa4-o5-ur8"; */
+"xa4-o5-ur8.placeholder" = "Pas de spécification";
+
+/* Class = "UITextField"; text = "Pas de réponse"; ObjectID = "xa4-o5-ur8"; */
+"xa4-o5-ur8.text" = "Pas de réponse";

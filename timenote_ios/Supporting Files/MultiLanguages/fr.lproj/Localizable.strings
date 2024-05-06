@@ -1,0 +1,71 @@
+/*
+  Localizable.strings
+  timenote_ios
+
+  Created by Moshe Assaban on 5/8/20.
+  Copyright © 2020 timenote. All rights reserved.
+*/
+
+
+// Alert
+
+"Cancel" = "Annuler";
+"Ok" = "Ok";
+
+"reportAnswer" = "Pourquoi signalez-vous cette publication?";
+"reportDescription" = "Votre signalment est anonyme. Si quelqu\'un se trouve en danger, appelez les secours";
+"spamReport" = "Spam";
+"sexualReport" = "Nudité ou actes sexuels";
+"dontLikeReport" = "Je n'aime tout simplement pas";
+"hatefulReport" = "Discours ou symboles haineux";
+"scamReport" = "Arnaque ou fraude";
+"falseInfoReport" = "Fausses informations";
+"bullyingReport" = "Intimidation ou harcèlement";
+"violenceReport" = "Violence ou organisations dangereuses";
+"intellectualReport" = "Atteinte à la propriété intellectuelle";
+"sucidReport" = "Sucide ou automutilation";
+"salesReport" = "Ventes de produits illégaux ou réglementés";
+
+"Login" = "FRENCH";
+
+// WebServiceError
+"serverError" = "Erreur serveur";
+"invalidUsername" = "Votre nom d'utilisateur est invalide veuillez réessayer.";
+"invalideGoogleArguments" = "Request contains an invalid argument.";
+"usernameOrPasswordInvalid" = "Votre nom d'utilisatuer ou votre mot de passe est invalide.";
+"emailOrPasswordInvalid" = "Votre email ou votre mot de passe est invalide.";
+"emailAlreadyUsed" = "Votre email est déjà utilisé.";
+"usernameAlreadyUsed" = "Votre nom d'utilisateur est déjà utilisé";
+
+// Calendar
+
+"lun." = "lun.";
+"mar." = "mar.";
+"mer." = "mer.";
+"jeu." = "jeu.";
+"ven." = "ven.";
+"sam." = "sam.";
+"dim." = "dim.";
+
+// Configutation view
+
+"enterOldPasswordDescription" = "Entrez votre ancien mot de passe.";
+"changePassword" = "Changer le mot de passe.";
+"enterNewPasswordDescription" = "Entrez le mot de passe";
+"enterNewPasswordAgainDescription" = "Tapez à nouveau le nouveau mot de passe.";
+"changePasswordRequestSent" = "Votre modification de mot de passe à été effectué.";
+"submit" = "Changer";
+
+// Signup
+
+"termsOfUseAndPrivacyFull" = "J'accepte les Conditions d'utilisation et la Politique de confidentialité";
+"termsOfUse" = "Conditions d'utilisation";
+"privacyPolicy" = "Politique de confidentialité";
+"PrivacyPolicyAlert" = "Vous devez accepter les conditions afin de continuer";
+
+// Timenote Cells
+
+"See the" = "Voir les";
+"comments" = "commentaires";
+"comment" = "commenter";
+"See the comment" = "Voir le commentaire";

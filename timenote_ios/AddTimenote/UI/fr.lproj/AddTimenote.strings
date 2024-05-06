@@ -1,0 +1,102 @@
+
+/* Class = "UITextField"; placeholder = "Enter the currency"; ObjectID = "0al-jQ-76x"; */
+"0al-jQ-76x.placeholder" = "Entrer la devise";
+
+/* Class = "UILabel"; text = "Link"; ObjectID = "10v-XF-xM5"; */
+"10v-XF-xM5.text" = "Lien";
+
+/* Class = "UILabel"; text = "Visible to"; ObjectID = "2B3-rV-KBO"; */
+"2B3-rV-KBO.text" = "Visible par";
+
+/* Class = "UILabel"; text = "Catégorie"; ObjectID = "5Ng-S4-n9c"; */
+"5Ng-S4-n9c.text" = "Catégorie";
+
+/* Class = "UILabel"; text = "2020"; ObjectID = "6yO-9z-NDs"; */
+"6yO-9z-NDs.text" = "2020";
+
+/* Class = "UITextView"; text = "Enter your description"; ObjectID = "CzQ-g3-eUT"; */
+"CzQ-g3-eUT.text" = "Entrer votre description";
+
+/* Class = "UITextField"; placeholder = "Select the adress"; ObjectID = "F4N-AI-gYK"; */
+"F4N-AI-gYK.placeholder" = "Sélectionner l'adresse";
+
+/* Class = "UITextField"; placeholder = "Organizers"; ObjectID = "FRu-Hl-Cuu"; */
+"FRu-Hl-Cuu.placeholder" = "Organisateurs";
+
+/* Class = "UIButton"; normalTitle = "Confirmer"; ObjectID = "Faw-p2-koH"; */
+"Faw-p2-koH.normalTitle" = "Confirmer";
+
+/* Class = "UITextField"; text = "Everyone"; ObjectID = "HUB-Hg-naf"; */
+"HUB-Hg-naf.text" = "Tout le monde";
+
+/* Class = "UITextField"; placeholder = "End date optional"; ObjectID = "Ma4-f9-2Da"; */
+"Ma4-f9-2Da.placeholder" = "Date de fin optionelle";
+
+/* Class = "UITextField"; placeholder = "No link"; ObjectID = "PNk-Gd-2MR"; */
+"PNk-Gd-2MR.placeholder" = "Pas de lien";
+
+/* Class = "UILabel"; text = "15:30"; ObjectID = "QiD-Kx-bK4"; */
+"QiD-Kx-bK4.text" = "15:30";
+
+/* Class = "UILabel"; text = "New Dayzee"; ObjectID = "REj-EK-9uD"; */
+"REj-EK-9uD.text" = "Nouveau Dayzee";
+
+/* Class = "UITextField"; placeholder = "Enter the amout"; ObjectID = "XPb-08-dBG"; */
+"XPb-08-dBG.placeholder" = "Entrer la valeur";
+
+/* Class = "UILabel"; text = "Pinplace"; ObjectID = "YpO-CB-ari"; */
+"YpO-CB-ari.text" = "Pinplace";
+
+/* Class = "UILabel"; text = "Preview du Dayzee"; ObjectID = "a4y-tf-BTY"; */
+"a4y-tf-BTY.text" = "Preview du Dayzee";
+
+/* Class = "UITextField"; placeholder = "Price"; ObjectID = "aWt-EA-NA4"; */
+"aWt-EA-NA4.placeholder" = "Prix";
+
+/* Class = "UITextField"; text = "Unknown"; ObjectID = "aWt-EA-NA4"; */
+"aWt-EA-NA4.text" = "Pas de réponse";
+
+"B39-wh-o4o.placeholder" = "Aucun";
+
+/* Class = "UITextField"; placeholder = "Title "; ObjectID = "bNN-bw-zCo"; */
+"bNN-bw-zCo.placeholder" = "Titre";
+
+/* Class = "UILabel"; text = "August"; ObjectID = "bxZ-Vi-0z9"; */
+"bxZ-Vi-0z9.text" = "August";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "cA6-mH-S4g"; */
+"cA6-mH-S4g.normalTitle" = "Réinitialiser";
+
+/* Class = "UILabel"; text = "Timenote Name"; ObjectID = "ccP-sP-g72"; */
+"ccP-sP-g72.text" = "Timenote Name";
+
+/* Class = "UILabel"; text = "OR SELECT A COLOR"; ObjectID = "ejv-Wt-lGY"; */
+"ejv-Wt-lGY.text" = "OU SÉLECTIONNER UNE COULEUR";
+
+/* Class = "UILabel"; text = "Price"; ObjectID = "fuA-Wy-14o"; */
+"fuA-Wy-14o.text" = "Prix";
+
+/* Class = "UILabel"; text = "When ?"; ObjectID = "iQl-6R-CsE"; */
+"iQl-6R-CsE.text" = "Quand ?";
+
+/* Class = "UITextField"; placeholder = "Link Name"; ObjectID = "mwh-nB-i1L"; */
+"mwh-nB-i1L.placeholder" = "Nom du lien";
+
+/* Class = "UILabel"; text = "10"; ObjectID = "pNy-IJ-Puc"; */
+"pNy-IJ-Puc.text" = "10";
+
+/* Class = "UITextField"; placeholder = "None"; ObjectID = "vKC-XV-uAm"; */
+"vKC-XV-uAm.placeholder" = "Aucun";
+
+/* Class = "UILabel"; text = "ADD A PICTURE"; ObjectID = "wGg-eA-n9k"; */
+"wGg-eA-n9k.text" = "AJOUTER DES PHOTOS";
+
+/* Class = "UIButton"; normalTitle = "Publish"; ObjectID = "xdw-hc-qWm"; */
+"xdw-hc-qWm.normalTitle" = "Publier";
+
+/* Class = "UITextField"; placeholder = "Start date"; ObjectID = "yEn-TK-1ZW"; */
+"yEn-TK-1ZW.placeholder" = "Date de début";
+
+"PSq-vw-dRg.placeholder" = "Heure";
+
+"p31-HY-Bov.placeholder" = "Heure";

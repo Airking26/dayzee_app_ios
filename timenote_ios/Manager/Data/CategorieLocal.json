@@ -1,0 +1,46 @@
+[
+    {
+        "category"      : "SPORT",
+        "subcategory"   : ["football","tennis","basket","handball","sport us","rubgy","cyclisme","auto/moto","volley","golf","ski","athletisme","boxe","escrime","natation","judo","voile","surf"]
+    },
+    {
+        "category"      : "MUSIQUE",
+        "subcategory"   : ["Classique & opéra","Electro","Rap & hip hop","Jazz","Musiques du monde","Variété & chanson française","Pop rock & folk","Hard rock & métal","Reggae","Blues & country","Gospel","Variété internationale","R'n'b","soul","funk"]
+    },
+    {
+        "category"      : "ESPORT",
+        "subcategory"   : ["Fifa 17","Counter Strike: GO","Clash Royale","League of Legends","Hearthstone","Fifa 18","Dota 2","Overwatch","Rainbow Six Siege","Rocket League","PES 2017","Vainglory","Street Fighter 5","COD: Infinite Warfare","Tekken 7","S.Smash Bros. Melee","PES 2018","PU's Battlegrounds","Fifa 16","Clash of Clans"]
+    },
+    {
+        "category"      : "YOUTUBERS",
+        "subcategory"   : ["Twitch gamers","Beauté","Business","Cinéma","Cours","Cuisine","Fiction Hi­Tech","Humour","Informatique","Jeux Vidéos","Lecture","Lifestyle","Magie","Manga","Musique","Photographie","Politique","Relaxation","Rencontre","Science","Sport","Vlog"]
+    },
+    {
+        "category"      : "RELIGION",
+        "subcategory"   : ["Judaisme","Christianisme","Islam","Bouddhisme","Hindouisme","Others"]
+    },
+    {
+        "category"      : "CULTURE",
+        "subcategory"   : ["theatre","exposition","danse","art du spectacle","cirque","pour les enfants","salon","activite sportives","festival","cours"]
+    },
+    {
+        "category"      : "MOVIES & SERIES",
+        "subcategory"   : ["sorties cinema","sorties dvd","sorties series tv"]
+    },
+    {
+        "category"      : "SHOPPING",
+        "subcategory"   : ["Femme","Homme","Enfants","Sneakers","Hi-tech","Games","Auto"]
+    },
+    {
+        "category"      : "HOLIDAYS",
+        "subcategory"   : ["FRANCE","UK","ALLEMAGNE","ITALIE","ESPAGNE","USA","ISRAEL"]
+    },
+    {
+        "category"      : "INTERESTING CALENDARS",
+        "subcategory"   : ["Politique","Economique","Culinaire","Nature","Astronomique","Astrologie"]
+    },
+    {
+        "category"      : "EVENTS & FAIR TRADE SHOW",
+        "subcategory"   : ["technologie","collectors","cars","business"]
+    }
+]

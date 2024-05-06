@@ -1,0 +1,12 @@
+
+/* Class = "UISearchBar"; placeholder = "Rechercher des utilisateurs ou #"; ObjectID = "7BF-AT-cwA"; */
+"7BF-AT-cwA.placeholder" = "Rechercher des utilisateurs ou #";
+
+/* Class = "UIButton"; normalTitle = "Top"; ObjectID = "Fpf-Ag-v71"; */
+"Fpf-Ag-v71.normalTitle" = "Top";
+
+/* Class = "UILabel"; text = "Football"; ObjectID = "N66-Uu-8l8"; */
+"N66-Uu-8l8.text" = "Football";
+
+/* Class = "UIButton"; normalTitle = "Explore"; ObjectID = "tgb-VS-an6"; */
+"tgb-VS-an6.normalTitle" = "Découvrir";

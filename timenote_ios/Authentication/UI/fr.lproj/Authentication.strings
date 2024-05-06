@@ -1,0 +1,141 @@
+
+/* Class = "UIButton"; normalTitle = "Inscrivez-vous"; ObjectID = "01P-CI-cI5"; */
+"01P-CI-cI5.normalTitle" = "Inscrivez-vous";
+
+/* Class = "UITextField"; placeholder = "Nouveau mot de passe"; ObjectID = "0TE-ha-Sla"; */
+"0TE-ha-Sla.placeholder" = "Nouveau mot de passe";
+
+/* Class = "UIButton"; normalTitle = "CONTINUER EN TANT QUE VISITEUR"; ObjectID = "2VK-iJ-Xgo"; */
+"2VK-iJ-Xgo.normalTitle" = "CONTINUER EN TANT QUE VISITEUR";
+
+/* Class = "UILabel"; text = "Vous avez déjà un compte ?"; ObjectID = "6k2-R7-t0B"; */
+"6k2-R7-t0B.text" = "Vous avez déjà un compte ?";
+
+/* Class = "UIButton"; normalTitle = "Connect with your Dayzee account"; ObjectID = "7ux-55-cJy"; */
+"7ux-55-cJy.normalTitle" = "Connect with your Dayzee account";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "9N4-Bh-b4z"; */
+"9N4-Bh-b4z.placeholder" = "Email";
+
+/* Class = "UITextField"; placeholder = "Confirmer le nouveau mot de passe"; ObjectID = "EfH-n1-gcT"; */
+"EfH-n1-gcT.placeholder" = "Confirmer le nouveau mot de passe";
+
+/* Class = "UITextField"; placeholder = "Ancien mot de passe"; ObjectID = "GQc-gm-OuA"; */
+"GQc-gm-OuA.placeholder" = "Ancien mot de passe";
+
+/* Class = "UILabel"; text = "Mot de passe"; ObjectID = "GsK-bg-bly"; */
+"GsK-bg-bly.text" = "Mot de passe";
+
+/* Class = "UIButton"; normalTitle = "Valider et se connecter"; ObjectID = "IAj-u8-1Rd"; */
+"IAj-u8-1Rd.normalTitle" = "Valider et se connecter";
+
+/* Class = "UITextField"; placeholder = "Ancien mot de passe"; ObjectID = "J4p-a9-qlp"; */
+"J4p-a9-qlp.placeholder" = "Ancien mot de passe";
+
+/* Class = "UILabel"; text = "Mot de passe oublié?"; ObjectID = "Kgd-V5-leN"; */
+"Kgd-V5-leN.text" = "Mot de passe oublié?";
+
+/* Class = "UIButton"; normalTitle = "S'identifier"; ObjectID = "Knd-1D-L12"; */
+"Knd-1D-L12.normalTitle" = "S'identifier";
+
+/* Class = "UITextField"; placeholder = "Email / Nom d'utilisateur"; ObjectID = "LVK-P9-YKT"; */
+"LVK-P9-YKT.placeholder" = "Email / Nom d'utilisateur";
+
+/* Class = "UITextField"; placeholder = "Nouveau mot de passe"; ObjectID = "U1c-Yl-TjY"; */
+"U1c-Yl-TjY.placeholder" = "Nouveau mot de passe";
+
+/* Class = "UITextField"; placeholder = "Email / Nom d'utilisateur"; ObjectID = "XUl-Cq-HYC"; */
+"XUl-Cq-HYC.placeholder" = "Email / Nom d'utilisateur";
+
+/* Class = "UILabel"; text = "Changer le mot de passe"; ObjectID = "YTT-fl-gf6"; */
+"YTT-fl-gf6.text" = "Changer le mot de passe";
+
+/* Class = "UILabel"; text = "Veuillez remplir tous les champs pour créer votre compte"; ObjectID = "Z5G-cs-Jgj"; */
+"Z5G-cs-Jgj.text" = "Veuillez remplir tous les champs pour créer votre compte";
+
+/* Class = "UIButton"; normalTitle = "Connection à Dayzee"; ObjectID = "bIu-gW-89d"; */
+"bIu-gW-89d.normalTitle" = "Connection à Dayzee";
+
+/* Class = "UITextField"; placeholder = "Mot de passe"; ObjectID = "cSS-Wm-Jpd"; */
+"cSS-Wm-Jpd.placeholder" = "Mot de passe";
+
+/* Class = "UITextField"; placeholder = "Mot de passe"; ObjectID = "cap-Zp-qTz"; */
+"cap-Zp-qTz.placeholder" = "Mot de passe";
+
+/* Class = "UILabel"; text = "Ancien mot de passe"; ObjectID = "da5-MR-UfY"; */
+"da5-MR-UfY.text" = "Ancien mot de passe";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "dm8-3t-4UD"; */
+"dm8-3t-4UD.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "SE CONNECTER"; ObjectID = "e67-Iq-uUv"; */
+"e67-Iq-uUv.normalTitle" = "SE CONNECTER";
+
+/* Class = "UILabel"; text = "Confirmer le nouveau mot de passe"; ObjectID = "e6H-X8-XTN"; */
+"e6H-X8-XTN.text" = "Confirmer le nouveau mot de passe";
+
+/* Class = "UIButton"; normalTitle = " "; ObjectID = "eNZ-8d-UaA"; */
+"eNZ-8d-UaA.normalTitle" = " ";
+
+/* Class = "UIButton"; normalTitle = "Se connecter avec Facebook"; ObjectID = "eRN-9P-Ul3"; */
+"eRN-9P-Ul3.normalTitle" = "Se connecter avec Facebook";
+
+/* Class = "UIButton"; normalTitle = "CREER UN NOUVEAU COMPTE"; ObjectID = "ecc-Qb-XfE"; */
+"ecc-Qb-XfE.normalTitle" = "CREER UN NOUVEAU COMPTE";
+
+/* Class = "UIButton"; normalTitle = "Se connecter sans compte"; ObjectID = "fmW-TY-dYj"; */
+"fmW-TY-dYj.normalTitle" = "Se connecter sans compte";
+
+/* Class = "UILabel"; text = "Se connecter avec Dayzee"; ObjectID = "iEe-g0-e18"; */
+"iEe-g0-e18.text" = "Se connecter avec Dayzee";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "ioO-TN-wXu"; */
+"ioO-TN-wXu.text" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Se connecter avec Google"; ObjectID = "j6C-9y-utw"; */
+"j6C-9y-utw.normalTitle" = "Se connecter avec Google";
+
+/* Class = "UILabel"; text = "Nouveau mot de passe"; ObjectID = "jV3-iH-Noh"; */
+"jV3-iH-Noh.text" = "Nouveau mot de passe";
+
+/* Class = "UIButton"; normalTitle = "Inscrivez-vous"; ObjectID = "jb9-Ax-ihp"; */
+"jb9-Ax-ihp.normalTitle" = "Inscrivez-vous";
+
+/* Class = "UIButton"; normalTitle = "Connection à Dayzee"; ObjectID = "kpZ-ix-HqA"; */
+"kpZ-ix-HqA.normalTitle" = "Connection à Dayzee";
+
+/* Class = "UILabel"; text = "Créez votre compte Dayzee"; ObjectID = "m5q-kM-ECv"; */
+"m5q-kM-ECv.text" = "Créez votre compte Dayzee";
+
+/* Class = "UITextField"; placeholder = "Mot de passe"; ObjectID = "miy-f3-XQb"; */
+"miy-f3-XQb.placeholder" = "Mot de passe";
+
+/* Class = "UILabel"; text = "Sinon"; ObjectID = "oPW-Su-wCf"; */
+"oPW-Su-wCf.text" = "Sinon";
+
+/* Class = "UILabel"; text = "Nom d'utilisateur"; ObjectID = "pQu-hC-Qt7"; */
+"pQu-hC-Qt7.text" = "Nom d'utilisateur";
+
+/* Class = "UITextField"; placeholder = "Nouveau mot de passe"; ObjectID = "pXd-qL-u7I"; */
+"pXd-qL-u7I.placeholder" = "Nouveau mot de passe";
+
+/* Class = "UIButton"; normalTitle = "Valider et se connecter"; ObjectID = "q3x-3P-3T3"; */
+"q3x-3P-3T3.normalTitle" = "Valider et se connecter";
+
+/* Class = "UITextField"; placeholder = "Nom d'utilisateur"; ObjectID = "qIc-nf-SjN"; */
+"qIc-nf-SjN.placeholder" = "Nom d'utilisateur";
+
+/* Class = "UILabel"; text = "J'accepte les Conditions d'utilisation et la Politique de confidentialité"; ObjectID = "qsk-J3-rAo"; */
+"qsk-J3-rAo.text" = "J'accepte les Conditions d'utilisation et la Politique de confidentialité";
+
+/* Class = "UIButton"; normalTitle = "Se connecter avec Linkedin"; ObjectID = "uJe-Yk-u4p"; */
+"uJe-Yk-u4p.normalTitle" = "Se connecter avec Linkedin";
+
+/* Class = "UITextField"; placeholder = "Mot de passe"; ObjectID = "uqs-Jk-kmw"; */
+"uqs-Jk-kmw.placeholder" = "Mot de passe";
+
+/* Class = "UIButton"; normalTitle = "Mot de passe oublié ?"; ObjectID = "wVI-LK-leM"; */
+"wVI-LK-leM.normalTitle" = "Mot de passe oublié ?";
+
+/* Class = "UITextField"; placeholder = "Nom d'utilisateur"; ObjectID = "zSH-AN-d2A"; */
+"zSH-AN-d2A.placeholder" = "Nom d'utilisateur";

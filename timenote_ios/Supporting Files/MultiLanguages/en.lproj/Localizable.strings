@@ -1,0 +1,76 @@
+/*
+  Localizable.strings
+  timenote_ios
+
+  Created by Moshe Assaban on 5/8/20.
+  Copyright © 2020 timenote. All rights reserved.
+*/
+
+
+// Alert
+
+"Cancel" = "Cancel";
+"Ok" = "Ok";
+
+"reportAnswer" = "Why did you decide to report this post?";
+"reportDescription" = "Your reoprt is anonymous. If someone is in danger, call immediately for rescue.";
+"spamReport" = "Spam";
+"sexualReport" = "Nudity or sexual act";
+"dontLikeReport" = "I just don`t like it";
+"hatefulReport" = "Hateful speech or symbols";
+"scamReport" = "Scam or fraud";
+"falseInfoReport" = "False information";
+"bullyingReport" = "Bullying or harassment";
+"violenceReport" = "Violence or dangerous organizations";
+"intellectualReport" = "Intellectual property infringement";
+"sucidReport" = "Sucid or self-harm";
+"salesReport" = "Sales of illegal or regulated products";
+
+"Login" = "ENGLISH";
+
+// WebServiceError
+"serverError" = "Server Error";
+"invalidUsername" = "Your username is invalid, please try again.";
+"invalideGoogleArguments" = "Request contains an invalid argument.";
+"usernameOrPasswordInvalid" = "Your username or password is invalid.";
+"emailOrPasswordInvalid" = "Your email or password is invalid.";
+"emailAlreadyUsed" = "Your email is already in use.";
+"usernameAlreadyUsed" = "Your username is already in use.";
+"passwordChanged" = "Your password was changed successfully.";
+"passwordChangeError" = "Password change error.";
+"passwordChangeErrorDescription" = "Please try again later.";
+"passwordsNotEqual" = "Entered passwords are not the same.";
+"passwordsNotEqualDescription" = "Please check your password and try again.";
+
+// Calendar
+
+"lun." = "mon.";
+"mar." = "tue.";
+"mer." = "wed.";
+"jeu." = "thu.";
+"ven." = "fri.";
+"sam." = "sat.";
+"dim." = "sun.";
+
+// Configutation view
+
+"enterOldPasswordDescription" = "Enter your old password.";
+"changePassword" = "Change password.";
+"enterNewPasswordDescription" = "Enter a new password.";
+"enterNewPasswordAgainDescription" = "Type again new password";
+"changePasswordRequestSent" = "Your request to reset your password has been sent.";
+"submit" = "Submit";
+
+// Signup
+
+"termsOfUseAndPrivacyFull" = "I agree with Terms of use and Privacy policy";
+"termsOfUse" = "Terms of use";
+"privacyPolicy" = "Privacy policy";
+"PrivacyPolicyAlert" = "You must accept the conditions in order to continue";
+
+// Timenote Cells
+
+"See the" = "See the";
+"comments" = "comments";
+"comment" = "comment";
+"See the comment" = "See the comment";

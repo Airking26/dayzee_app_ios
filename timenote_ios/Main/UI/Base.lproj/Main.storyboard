@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="M48-kp-NB7">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Navigation Controller-->
+        <scene sceneID="Tqy-ZT-KAe">
+            <objects>
+                <navigationController navigationBarHidden="YES" id="M48-kp-NB7" sceneMemberID="viewController">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="t7w-F1-5G5">
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="BYZ-38-t0r" kind="relationship" relationship="rootViewController" id="hjR-9t-ieI"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Qd3-IW-k1E" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-735" y="119"/>
+        </scene>
+        <!--SplashVC-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="SplashVC" customModule="Timenote" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logoDayzee" translatesAutoresizingMaskIntoConstraints="NO" id="4oe-Ss-82X">
+                                <rect key="frame" x="50" y="338" width="314" height="220"/>
+                            </imageView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="4oe-Ss-82X" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="2t3-Gm-2M2"/>
+                            <constraint firstAttribute="trailing" secondItem="4oe-Ss-82X" secondAttribute="trailing" constant="50" id="Bp7-61-XV0"/>
+                            <constraint firstItem="4oe-Ss-82X" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="50" id="ve6-VR-p39"/>
+                        </constraints>
+                    </view>
+                    <navigationItem key="navigationItem" id="hGs-Ed-Q00"/>
+                    <connections>
+                        <segue destination="ZZJ-Fn-uBd" kind="show" identifier="goToAuthentication" id="eRh-FR-Tfy"/>
+                        <segue destination="2Hy-6o-hXI" kind="show" identifier="goToHome" id="bfZ-6Y-BuX"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="317" y="119"/>
+        </scene>
+        <!--Home-->
+        <scene sceneID="hkO-Pr-B7c">
+            <objects>
+                <viewControllerPlaceholder storyboardName="Home" id="2Hy-6o-hXI" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="EgE-cZ-nHm"/>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="ghI-hU-Ra0" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="316" y="580"/>
+        </scene>
+        <!--Authentication-->
+        <scene sceneID="h29-rW-eRT">
+            <objects>
+                <viewControllerPlaceholder storyboardName="Authentication" id="ZZJ-Fn-uBd" sceneMemberID="viewController">
+                    <navigationItem key="navigationItem" id="Tps-CJ-Hxh"/>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="R4K-Me-Cqg" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1041" y="119"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="logoDayzee" width="470" height="220"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

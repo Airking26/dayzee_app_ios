@@ -1,0 +1,215 @@
+
+/* Class = "UIButton"; normalTitle = "Modifier"; ObjectID = "0ID-9R-qS4"; */
+"0ID-9R-qS4.normalTitle" = "Modifier";
+
+/* Class = "UILabel"; text = "Configuration"; ObjectID = "0SM-zL-Pay"; */
+"0SM-zL-Pay.text" = "Configuration";
+
+/* Class = "UILabel"; text = "mar."; ObjectID = "0bs-om-HZb"; */
+"0bs-om-HZb.text" = "mar.";
+
+/* Class = "UITextField"; placeholder = "Whatsapp"; ObjectID = "18a-Zm-Xeh"; */
+"18a-Zm-Xeh.placeholder" = "Whatsapp";
+
+/* Class = "UILabel"; text = "ven."; ObjectID = "2Li-Cm-a7x"; */
+"2Li-Cm-a7x.text" = "ven.";
+
+/* Class = "UITextField"; placeholder = "Votre nom d'utilisateur"; ObjectID = "31a-gD-9yn"; */
+"31a-gD-9yn.placeholder" = "Nom d'utilisateur";
+
+/* Class = "UIButton"; normalTitle = "Format de date"; ObjectID = "33E-Au-Jbq"; */
+"33E-Au-Jbq.normalTitle" = "Format de date";
+
+/* Class = "UIButton"; normalTitle = "Joined"; ObjectID = "3nx-uT-hnq"; */
+"3nx-uT-hnq.normalTitle" = "Enregistré";
+
+"AQA-Fv-gPf.normalTitle" = "Partager le profil";
+
+/* Class = "UILabel"; text = "Israel"; ObjectID = "4ji-s3-Vel"; */
+"4ji-s3-Vel.text" = "Israel";
+
+/* Class = "UIButton"; normalTitle = "Changer le mot de passe"; ObjectID = "6IF-fd-efh"; */
+"6IF-fd-efh.normalTitle" = "Changer le mot de passe";
+
+/* Class = "UIButton"; highlightedTitle = "Unfollow"; ObjectID = "735-mx-lvW"; */
+"735-mx-lvW.highlightedTitle" = "Se désabonner";
+
+/* Class = "UIButton"; normalTitle = "Follow"; ObjectID = "735-mx-lvW"; */
+"735-mx-lvW.normalTitle" = "S'abonner";
+
+/* Class = "UIButton"; normalTitle = "Se déconnecter"; ObjectID = "7LQ-9F-fL3"; */
+"7LQ-9F-fL3.normalTitle" = "Se déconnecter";
+
+/* Class = "UILabel"; text = "Mois"; ObjectID = "7r3-8N-ltl"; */
+"7r3-8N-ltl.text" = "Mois";
+
+/* Class = "UILabel"; text = "Roony"; ObjectID = "ADr-UF-lbO"; */
+"ADr-UF-lbO.text" = "Roony";
+
+/* Class = "UILabel"; text = "MAR"; ObjectID = "B8p-1r-0MD"; */
+"B8p-1r-0MD.text" = "MAR";
+
+/* Class = "UIButton"; normalTitle = "Confirmer"; ObjectID = "Dli-SR-B4v"; */
+"Dli-SR-B4v.normalTitle" = "Confirmer";
+
+/* Class = "UITextField"; placeholder = "Votre emplacement"; ObjectID = "DtG-M0-vgD"; */
+"DtG-M0-vgD.placeholder" = "Emplacement";
+
+/* Class = "UILabel"; text = "mer."; ObjectID = "E4J-7F-8y8"; */
+"E4J-7F-8y8.text" = "mer.";
+
+/* Class = "UITextField"; placeholder = "Profil privé"; ObjectID = "EZD-mc-C1w"; */
+"EZD-mc-C1w.placeholder" = "Profil privé";
+
+/* Class = "UILabel"; text = "Followers"; ObjectID = "EhY-Dn-VsG"; */
+"EhY-Dn-VsG.text" = "Abonné";
+
+/* Class = "UILabel"; text = "Israel"; ObjectID = "FNi-Io-dCK"; */
+"FNi-Io-dCK.text" = "Israel";
+
+/* Class = "UILabel"; text = "520"; ObjectID = "G7d-IL-Buc"; */
+"G7d-IL-Buc.text" = "520";
+
+/* Class = "UILabel"; text = "toto voudrai suivre"; ObjectID = "GIQ-c3-uT0"; */
+"GIQ-c3-uT0.text" = "toto voudrai suivre";
+
+/* Class = "UITextField"; placeholder = "Votre date d'anniversaire"; ObjectID = "HfU-8T-r7Y"; */
+"HfU-8T-r7Y.placeholder" = "Date d'anniversaire";
+
+/* Class = "UILabel"; text = "Roony"; ObjectID = "JOJ-Or-TKc"; */
+"JOJ-Or-TKc.text" = "Roony";
+
+/* Class = "UIButton"; normalTitle = "Demandes en attente de réponse"; ObjectID = "Jco-QK-emS"; */
+"Jco-QK-emS.normalTitle" = "Demandes en attente de réponse";
+
+/* Class = "UITextField"; placeholder = "Votre sexe"; ObjectID = "Jvk-mV-RHe"; */
+"Jvk-mV-RHe.placeholder" = "Sexe";
+
+/* Class = "UIButton"; normalTitle = "Modifier mes informations personnels"; ObjectID = "L4T-ab-lJw"; */
+"L4T-ab-lJw.normalTitle" = "Modifier mes informations personnelles";
+
+/* Class = "UILabel"; text = "Roony Dahan"; ObjectID = "L94-hQ-amY"; */
+"L94-hQ-amY.text" = "Roony Dahan";
+
+/* Class = "UITextField"; placeholder = "Chaîne Youtube"; ObjectID = "MXA-hb-6Y2"; */
+"MXA-hb-6Y2.placeholder" = "Chaîne Youtube";
+
+/* Class = "UIButton"; normalTitle = "Envoier des commentaires"; ObjectID = "N1w-ej-4eJ"; */
+"N1w-ej-4eJ.normalTitle" = "Envoyer des commentaires";
+
+/* Class = "UIButton"; normalTitle = "Politique de confidentialité"; ObjectID = "Nit-7f-P1C"; */
+"Nit-7f-P1C.normalTitle" = "Politique de confidentialité";
+
+/* Class = "UIButton"; normalTitle = "Notifications"; ObjectID = "Njd-wb-1sR"; */
+"Njd-wb-1sR.normalTitle" = "Notifications";
+
+/* Class = "UITextField"; placeholder = "Votre format de date"; ObjectID = "NnH-Jl-tc6"; */
+"NnH-Jl-tc6.placeholder" = "Format de date";
+
+/* Class = "UILabel"; text = "Mon profil"; ObjectID = "Rij-gD-yhT"; */
+"Rij-gD-yhT.text" = "Mon profil";
+
+/* Class = "UIButton"; normalTitle = "Demandes envoyées"; ObjectID = "Yei-qA-9Ac"; */
+"Yei-qA-9Ac.normalTitle" = "Demandes envoyées";
+
+/* Class = "UIButton"; normalTitle = "Utilisateurs masqués"; ObjectID = "yAr-fL-bSy"; */
+"yAr-fL-bSy.normalTitle" = "Utilisateurs masqués";
+
+/* Class = "UIButton"; normalTitle = "Evènements masqués"; ObjectID = "0ps-e3-zos"; */
+"0ps-e3-zos.normalTitle" = "Evènements masqués";
+
+/* Class = "UITextField"; placeholder = "Instagram"; ObjectID = "Z1y-VZ-bFK"; */
+"Z1y-VZ-bFK.placeholder" = "Instagram";
+
+/* Class = "UITextField"; placeholder = "Votre nom"; ObjectID = "adC-PW-siV"; */
+"adC-PW-siV.placeholder" = "Nom";
+
+/* Class = "UIButton"; normalTitle = "Compte privée"; ObjectID = "cAg-9N-S4L"; */
+"cAg-9N-S4L.normalTitle" = "Compte privé";
+
+/* Class = "UILabel"; text = "Réglages"; ObjectID = "iHL-DA-4jW"; */
+"iHL-DA-4jW.text" = "Réglages";
+
+/* Class = "UILabel"; text = "Autres"; ObjectID = "jE2-11-Ioy"; */
+"jE2-11-Ioy.text" = "Autres";
+
+/* Class = "UIButton"; text = "Format de date d'apparition des événements"; ObjectID = "33E-Au-Jbq"; */
+"33E-Au-Jbq.text" = "Format de date d'apparition des événements";
+
+/* Class = "UIButton"; text = "Qui peut voir mes événements"; ObjectID = "nv1-wG-LZV"; */
+"nv1-wG-LZV.text" = "Qui peut voir mes événements";
+
+/* Class = "UIButton"; text = "Politique de confidentialité"; ObjectID = "Nit-7f-P1C"; */
+"Nit-7f-P1C.text" = "Politique de confidentialité";
+
+/* Class = "UILabel"; text = "dim."; ObjectID = "kcQ-f5-sDj"; */
+"kcQ-f5-sDj.text" = "dim.";
+
+/* Class = "UILabel"; text = "Founder of Timenote Founder of Timenote Founder of Timenote Founder of Timenote Founder of Timenote Founder of Timenote Founder of Timenote Founder of Timenote "; ObjectID = "lJ8-CS-fnm"; */
+"lJ8-CS-fnm.text" = "Founder of Timenote Founder of Timenote Founder of Timenote Founder of Timenote Founder of Timenote Founder of Timenote Founder of Timenote Founder of Timenote ";
+
+/* Class = "UILabel"; text = "233"; ObjectID = "mEA-FB-YCM"; */
+"mEA-FB-YCM.text" = "233";
+
+/* Class = "UIButton"; normalTitle = "With Alarm"; ObjectID = "ms3-ck-l1h"; */
+"ms3-ck-l1h.normalTitle" = "Avec alarme";
+
+/* Class = "UIButton"; normalTitle = "Visibilité"; ObjectID = "nv1-wG-LZV"; */
+"nv1-wG-LZV.normalTitle" = "Visibilité";
+
+/* Class = "UILabel"; text = "Préférences"; ObjectID = "o5j-bh-EXE"; */
+"o5j-bh-EXE.text" = "Préférences";
+
+/* Class = "UILabel"; text = "Rien de prévu"; ObjectID = "SRt-Ng-xde"; */
+"SRt-Ng-xde.text" = "Rien de prévu";
+
+/* Class = "UILabel"; text = "20"; ObjectID = "ouo-Yx-cEb"; */
+"ouo-Yx-cEb.text" = "20";
+
+/* Class = "UILabel"; text = "Followings"; ObjectID = "qUe-4k-zfc"; */
+"qUe-4k-zfc.text" = "Abonnement";
+
+/* Class = "UILabel"; text = "07"; ObjectID = "rKf-Ve-LQs"; */
+"rKf-Ve-LQs.text" = "07";
+
+/* Class = "UIButton"; normalTitle = "My Dayzee"; ObjectID = "rme-ck-hJn"; */
+"rme-ck-hJn.normalTitle" = "Mes Dayzee";
+
+/* Class = "UILabel"; text = "General"; ObjectID = "sCp-ca-d1g"; */
+"sCp-ca-d1g.text" = "General";
+
+/* Class = "UITextField"; placeholder = "Linkedin"; ObjectID = "sDl-lV-TgO"; */
+"sDl-lV-TgO.placeholder" = "Linkedin";
+
+/* Class = "UILabel"; text = "Dayzee"; ObjectID = "scT-MY-Xfi"; */
+"scT-MY-Xfi.text" = "Dayzee";
+
+/* Class = "UITextField"; placeholder = "Votre description"; ObjectID = "ukI-1H-EOP"; */
+"ukI-1H-EOP.placeholder" = "Description";
+
+/* Class = "UILabel"; text = "lun."; ObjectID = "uo2-Ha-JLf"; */
+"uo2-Ha-JLf.text" = "lun.";
+
+/* Class = "UIButton"; normalTitle = "Group Related"; ObjectID = "vKy-JX-VDv"; */
+"vKy-JX-VDv.normalTitle" = "Groupe";
+
+/* Class = "UILabel"; text = "Inviter des amis"; ObjectID = "vrF-oi-FOq"; */
+"vrF-oi-FOq.text" = "Inviter des amis";
+
+/* Class = "UILabel"; text = "jeu."; ObjectID = "x7U-Ny-zjd"; */
+"x7U-Ny-zjd.text" = "jeu.";
+
+/* Class = "UITextField"; placeholder = "Facebook"; ObjectID = "yIx-D2-RbE"; */
+"yIx-D2-RbE.placeholder" = "Facebook";
+
+/* Class = "UILabel"; text = "sam."; ObjectID = "z98-iB-cac"; */
+"z98-iB-cac.text" = "sam.";
+
+/* Class = "UILabel"; text = "This account is private\nAsk to follow to see"; ObjectID = "RIf-ze-adU"; */
+"RIf-ze-adU.text" = "Ce compte est privé\nAbonnez-vous pour voir son contenu";
+
+/* Class = "UIButton"; normalTitle = "Synchronize Google Calendar"; ObjectID = "XGG-QN-TAv"; */
+"XGG-QN-TAv.normalTitle" = "Synchronise Google Calendar";
+
+/* Class = "UILabel"; text = "Synchronize."; ObjectID = "VBq-70-xZP"; */
+"VBq-70-xZP.text" = "Synchronise";

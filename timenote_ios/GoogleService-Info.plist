@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>39040998101-t9k6agauu81u7auvutb35qthdf318ppg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.39040998101-t9k6agauu81u7auvutb35qthdf318ppg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>39040998101-4mbe7j37lm2jn298kudd201q1qhv7c2o.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDS1oCfkECs4kywZZTYuhOuQZxhCV6L6Ng</string>
+	<key>GCM_SENDER_ID</key>
+	<string>39040998101</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.timenote.ltd.dayzee</string>
+	<key>PROJECT_ID</key>
+	<string>dayzee-978d4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dayzee-978d4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:39040998101:ios:8e36b0eb93f58d5f1be05c</string>
+	<key>DATABASE_URL</key>
+	<string>https://dayzee-978d4.firebaseio.com</string>
+</dict>
+</plist>

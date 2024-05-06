@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Sélectionnez ce que vous aimez"; ObjectID = "4IP-I3-77Q"; */
+"4IP-I3-77Q.text" = "Sélectionnez ce que vous aimez";
+
+/* Class = "UILabel"; text = "Sous catégorie name"; ObjectID = "6xv-jy-48b"; */
+"6xv-jy-48b.text" = "Sous catégorie name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "g79-39-rr4"; */
+"g79-39-rr4.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Fait"; ObjectID = "oEl-Mg-K6R"; */
+"oEl-Mg-K6R.normalTitle" = "Fait";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "odC-iO-lie"; */
+"odC-iO-lie.text" = "Label";
+
+/* Class = "UILabel"; text = "Combien l'aimez-vous ?"; ObjectID = "w2a-Bl-EtZ"; */
+"w2a-Bl-EtZ.text" = "Combien l'aimez-vous ?";
+
+/* Class = "UIButton"; normalTitle = "Suivant"; ObjectID = "xVi-c1-X6Z"; */
+"xVi-c1-X6Z.normalTitle" = "Suivant";

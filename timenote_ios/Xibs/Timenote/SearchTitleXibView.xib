@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19455" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19454"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="SearchTitleXibView" customModule="Timenote" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="461" height="157"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="3ht-Gq-FBd">
+                    <rect key="frame" x="0.0" y="0.0" width="461" height="157"/>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Explortation" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NBy-4I-Nzg">
+                    <rect key="frame" x="20" y="65.5" width="117.5" height="26"/>
+                    <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="21"/>
+                    <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="NBy-4I-Nzg" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="20" id="128-fi-jp2"/>
+                <constraint firstAttribute="trailing" secondItem="3ht-Gq-FBd" secondAttribute="trailing" id="F67-us-c1X"/>
+                <constraint firstItem="3ht-Gq-FBd" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="Nca-6A-gbM"/>
+                <constraint firstItem="3ht-Gq-FBd" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="OaV-le-pBa"/>
+                <constraint firstItem="NBy-4I-Nzg" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="p39-fB-E2X"/>
+                <constraint firstAttribute="bottom" secondItem="3ht-Gq-FBd" secondAttribute="bottom" id="pzz-YA-VQT"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="backgroundImageView" destination="3ht-Gq-FBd" id="ksi-wo-Ma4"/>
+                <outlet property="searchTitleLabel" destination="NBy-4I-Nzg" id="G9n-gL-F97"/>
+            </connections>
+            <point key="canvasLocation" x="87.681159420289859" y="143.63839285714286"/>
+        </view>
+    </objects>
+</document>
